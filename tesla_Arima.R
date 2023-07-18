@@ -28,6 +28,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
                
 
 server <- function(input, output){
+  #find diff between reactive and observer because pp is not rendering
   symbol <- reactive({input$txt1})
   getSymbols(symbol)
   tesla_ts <- ts(symbol)
