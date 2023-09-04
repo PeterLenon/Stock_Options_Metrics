@@ -26,7 +26,7 @@ These instructions will help you get a copy of the project up and running on you
 
 ## Usage
 
-- Arima_model_shiny_app.R - this script takes the specified stock listing and creates an Auto-Regressive Integrated Moving Average Model (ARIMA) to forecast the stock price for the next 365 trading days
+- Arima_model_shiny_app.R - This script takes the specified stock listing and creates an Auto-Regressive Integrated Moving Average Model (ARIMA) to forecast the stock price for the next 365 trading days
 - tesla_stock.R - is a script  that contains the stock price ARIMA prediction for the tesla stock
 - hello.html, index.js, style.css - these files are an attempt to make a web version with raw HTML, CSS, Javascript 
 - The rest are Rstudio files
@@ -44,4 +44,4 @@ We welcome contributions from the community! If you'd like to contribute to # St
 ## Contact
 goshomip@gmail.com or 
 https://web.groupme.com/contact/103653571/4OWCyvi9
-Thank you for your interest in Trade_It! We hope you find it useful and we look forward to your contributions.
+Thank you for your interest in Stock_Options_Metrics! We hope you find it useful and we look forward to your contributions.
