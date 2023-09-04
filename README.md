@@ -42,6 +42,5 @@ We welcome contributions from the community! If you'd like to contribute to # St
 5. Open a pull request explaining your changes.
 
 ## Contact
-goshomip@gmail.com or 
-https://web.groupme.com/contact/103653571/4OWCyvi9
-Thank you for your interest in Stock_Options_Metrics! We hope you find it useful and we look forward to your contributions.
+- goshomip@gmail.com or https://web.groupme.com/contact/103653571/4OWCyvi9
+- Thank you for your interest in Stock_Options_Metrics! We hope you find it useful and we look forward to your contributions.
